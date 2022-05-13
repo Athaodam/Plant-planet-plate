@@ -24,9 +24,11 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Botanical Details
 
-# Coconuts in Khmer Traditional and Folk Medicine 
+# Traditional and Folk Medicine 
 
-# Coconuts in Khmer Food and Cuisines
+# Food and Cuisines
+
+# The Arts
 
 ## Image
 
