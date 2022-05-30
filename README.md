@@ -12,8 +12,9 @@
 
 
 ## Trees of Life and Abundance 
-<param ve-entity eid="Q7845753"> <!-- tropical Asia -->
-<param ve-entity eid="Q55643"> <!-- Oceania --> 
+
+<param ve-entity eid="Q7845753"> <!--tropical Asia-->
+<param ve-entity eid="Q55643"> <!--Oceania--> 
 
 It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
 
@@ -26,8 +27,8 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
        license="CC BY 2.0">
 <param ve-entity eid="Q53500837"> <!-- José Joaquim Freire -->
 
-<param ve-entity eid="Q14080"> <!-- Arecaeae -->
-<param ve-entity eid="Q14712"> <!-- drupe -->
+<param ve-entity eid="Q14080"> <!--Arecaeae-->
+<param ve-entity eid="Q14712"> <!--drupe-->
 
 # Botanical Details
 
@@ -35,9 +36,9 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 
 Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.
 
-<param ve-entity eid="Q80583"> <!-- Gondwana -->
-<param ve-entity eid="Q206070"> <!-- Birgus latro -->
-<param ve-entity eid="Q677267"> <!--Uromys caudimaculata -->
+<param ve-entity eid="Q80583"> <!--Gondwana-->
+<param ve-entity eid="Q206070"> <!--Birgus latro-->
+<param ve-entity eid="Q677267"> <!--Uromys caudimaculata-->
 
 ## Historical Overview
 
