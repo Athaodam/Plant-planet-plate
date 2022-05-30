@@ -12,6 +12,8 @@
 
 
 # Trees of Life and Abundance 
+<param ve-entity eid="Q7845753"> <!-- tropical Asia -->
+<param ve-entity eid="Q55643"> <!-- Oceania --> 
 
 It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
 
