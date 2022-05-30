@@ -43,8 +43,7 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
 
-Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.
-
+Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator. As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilent-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5]
 
 ## Historical Overview
 
@@ -76,4 +75,5 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 [^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
 [^ref2]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref3]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
-[^ref4]: 
+[^ref4]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761.
+[^ref5]: Chan E, Elevitch CR, 2006. Cocos nucifera (coconut), ver. 2.1. Species profiles for Pacific island agroforestry [ed. by Elevitch, C. R.]. Honolulu, Hawaii, USA: Permanent Agriculture Resources (PAR).
