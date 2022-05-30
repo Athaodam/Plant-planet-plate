@@ -8,13 +8,8 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/Sihanoukville_Province_-_coconut_palms.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
 
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # The Tree of Life and Abundance 
 It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
@@ -22,9 +17,6 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 
 
 
-
-
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -64,13 +56,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
