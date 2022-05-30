@@ -3,7 +3,7 @@
 <a href="https://juncture-digital.org/athaodam/plant-planet-plate"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Coconut ដូង (Cocos nucifera)"
+       title="Coconut ដូង (_Cocos nucifera_)"
        author="Ashley Thuthao Keng Dam, Ph.D."
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/Sihanoukville_Province_-_coconut_palms.jpg" 
        layout="vertical">
