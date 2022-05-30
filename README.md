@@ -3,7 +3,7 @@
 <a href="https://juncture-digital.org/athaodam/plant-planet-plate"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Coconut ដូង (Cocos nucifera)"
+       title="The Tree of Life: Coconut ដូង (Cocos nucifera)"
        author="Ashley Thuthao Keng Dam, Ph.D."
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/Sihanoukville_Province_-_coconut_palms.jpg" 
        layout="vertical">
@@ -16,7 +16,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Historical Overview
+# The Tree of Life and Abundance 
+It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
+
+
 
 
 
@@ -27,6 +30,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Botanical Details
 
+Colloquially, the term “coconut” is used to either the seed or fruit of the coconut palm or cocos nucifera.  Cocos refers to the monotypic genus of the family Arecaeae, while nucifera translates to “nut bearing”.  Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”.   It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically within tropical regions from 25° North and 25° South of the equator. Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C. 
+
+# Historical Overview
+The origins of the coconut or cocos nucifera began with the breaking up of the landmass Gondwana, located in the modern-day Southern Hemisphere, approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying crabs (Birgus latro) and rats (Uromys caudimaculata) to early humans.
 # Traditional and Folk Medicine 
 
 # Food and Cuisine
