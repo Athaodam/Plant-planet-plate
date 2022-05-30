@@ -19,22 +19,24 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
-       label="'Cocos nucifera, Linn, painted by José Joaquim Freire"
+       label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
        attribution="Wiki Commons"
        license="CC BY 2.0">
 <param ve-entity eid="Q53500837"> <!-- José Joaquim Freire -->
 
-# Botanical Details
 <param ve-entity eid="Q14080"> <!-- Arecaeae -->
 <param ve-entity eid="Q14712"> <!-- drupe -->
 
+# Botanical Details
 
 Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family _Arecaeae_, while _nucifera_ translates to “nut bearing”. Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”.   It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically within tropical regions from 25° North and 25° South of the equator. Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C. 
 
-# Historical Overview
 <param ve-entity eid="Q80583"> <!-- Gondwana -->
 <param ve-entity eid="Q206070"> <!-- Birgus latro -->
 <param ve-entity eid="Q677267"> <!--Uromys caudimaculata -->
+
+# Historical Overview
+
 
 The origins of the coconut or cocos nucifera began with the breaking up of the landmass Gondwana, located in the modern-day Southern Hemisphere, approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
 # Traditional and Folk Medicine 
@@ -43,16 +45,6 @@ The origins of the coconut or cocos nucifera began with the breaking up of the l
 
 
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
 
