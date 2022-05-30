@@ -14,7 +14,7 @@
 ## Trees of Life and Abundance 
 
 
-It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
+It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.[^ref1]  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
 
 
 
@@ -73,4 +73,4 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring) 
+[^1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
