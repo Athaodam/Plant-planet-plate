@@ -11,7 +11,7 @@
 
 
 
-# Trees of Life and Abundance 
+## Trees of Life and Abundance 
 <param ve-entity eid="Q7845753"> <!-- tropical Asia -->
 <param ve-entity eid="Q55643"> <!-- Oceania --> 
 
@@ -39,13 +39,13 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
 <param ve-entity eid="Q206070"> <!-- Birgus latro -->
 <param ve-entity eid="Q677267"> <!--Uromys caudimaculata -->
 
-# Historical Overview
+## Historical Overview
 
 
 The origins of the coconut or cocos nucifera began with the breaking up of the landmass Gondwana, located in the modern-day Southern Hemisphere, approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
-# Traditional and Folk Medicine 
+## Traditional and Folk Medicine 
 
-# Food and Cuisine
+## Food and Cuisine
 
 
 
