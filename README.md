@@ -31,7 +31,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref2] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Also, some older archival documents referred to coconuts with the spelling “cocoanut”.[^ref4] 
+Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref4]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
 <param ve-image
        url="https://ia802702.us.archive.org/BookReader/BookReaderImages.php id=historyofcoconut00cook&itemPath=%2F0%2Fitems%2Fhistoryofcoconut00cook&server=ia802702.us.archive.org&page=n8_w352"
@@ -73,7 +73,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 # References
 
 [^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
-[^ref2]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
+[^ref2]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761.
 [^ref3]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
-[^ref4]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761.
+[^ref4]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref5]: Chan E, Elevitch CR, 2006. Cocos nucifera (coconut), ver. 2.1. Species profiles for Pacific island agroforestry [ed. by Elevitch, C. R.]. Honolulu, Hawaii, USA: Permanent Agriculture Resources (PAR).
