@@ -31,12 +31,18 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family Arecaeae, while _nucifera_ translates to “nut bearing”. Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”. 
+Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family Arecaceae, while _nucifera_ translates to “nut bearing”. Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”. 
 
-<param ve-entity eid="Q14080"> <!--Arecaeae-->
 <param ve-entity eid="Q14712"> <!--drupe-->
+<param ve-entity eid="Q14080"> <!--Arecaceae-->
 
 Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
+       label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
+       attribution="Wiki Commons"
+       license="CC BY 2.0">
 
 
 ## Historical Overview
