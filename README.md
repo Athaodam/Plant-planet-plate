@@ -39,10 +39,10 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.
 
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
-       label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
-       attribution="Wiki Commons"
-       license="CC BY 2.0">
+       url="https://ia802702.us.archive.org/BookReader/BookReaderImages.php id=historyofcoconut00cook&itemPath=%2F0%2Fitems%2Fhistoryofcoconut00cook&server=ia802702.us.archive.org&page=n8_w352"
+       label="'Page from _Contributions from the United States National Herbarium_ showing the use of 'cocoanut' (1890)"
+       attribution="Biodiversity Heritage Library"
+       license="Public Domain">
 
 
 ## Historical Overview
