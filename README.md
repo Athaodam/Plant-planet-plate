@@ -73,4 +73,4 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 # References
 
-[^1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
+[^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
