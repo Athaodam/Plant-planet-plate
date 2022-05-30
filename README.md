@@ -31,7 +31,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family Arecaceae, while _nucifera_ translates to “nut bearing”. Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”. 
+Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _cocos nucifera_.  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  Some older documents also referred to coconuts with the spelling “cocoanut”. 
 
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
@@ -48,7 +48,7 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
 ## Historical Overview
 
 
-The origins of the coconut or cocos nucifera began with the breaking up of the landmass Gondwana, located in the modern-day Southern Hemisphere, approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
+The origins of the coconut or cocos nucifera began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
 
 <param ve-entity eid="Q80583"> <!--Gondwana-->
 <param ve-entity eid="Q206070"> <!--Birgus latro-->
