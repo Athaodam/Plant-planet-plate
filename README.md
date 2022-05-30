@@ -18,9 +18,9 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 
 
 <param ve-image
-       url="[https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
        label="'Cocos nucifera, Linn, painted by José Joaquim Freire"
-       attribution="upsilon"
+       attribution="Wiki Commons"
        license="CC BY 2.0">
 <param ve-entity eid="Q53500837"> <!-- José Joaquim Freire -->
 
