@@ -12,13 +12,17 @@
 
 
 # The Tree of Life and Abundance 
+
 It’s hard to imagine a tropical paradise without the inclusion of coconuts. With their robust shells, tasty flesh, and nourishing liquids – coconuts possess many alluring qualities and types of uses.  Known by 19 different local names, the versatile coconut has traversed through many regions across the globe because of its natural buoyancy and the aid of ocean waves.  These churning waves carried ancestral coconut palm seeds throughout tropical Asia and Oceania respectively.  Additionally, travelers who encountered them also brought them along to share with others on their long journeys. As a result, many different cultures have unique relationships with coconuts; both local populations and colonizing empires were fascinated with the plant. Whether as food, medicine, and or as part of spiritual rituals, the coconut has truly had a wide impact on a number of civilizations.
 
 
 
-
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-image
+       url="[https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg)"
+       label="'Cocos nucifera, Linn, painted by José Joaquim Freire"
+       attribution="upsilon"
+       license="CC BY 2.0">
+<param ve-entity eid="Q53500837"> <!-- José Joaquim Freire -->
 
 # Botanical Details
 <param ve-entity eid="Q14080"> <!-- Arecaeae -->
