@@ -71,7 +71,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 # References
 
-[^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20  and Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp)
+[^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20; Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp); Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref2]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761; Pearsall J. (Ed.) 1999. Concise Oxford Dictionary. Tenth Edition. Clarendon Press, Oxford, UK. 1666 pp. Percival
 [^ref3]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref4]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
