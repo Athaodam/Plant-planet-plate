@@ -31,7 +31,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref4]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
+Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
 <param ve-image url="https://ia802702.us.archive.org/BookReader/BookReaderImages.phpid=historyofcoconut00cook&itemPath=%2F0%2Fitems%2Fhistoryofcoconut00cook&server=ia802702.us.archive.org&page=n8_w352"
        label="Page 'from Contributions from the United States National Herbarium' showing the use of 'cocoanut' (1890)"
@@ -42,7 +42,7 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
 
-Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref5] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref6]
+Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5]
 
 ## Historical Overview
 
@@ -74,6 +74,6 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 [^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20; Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp); Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref2]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761; Pearsall J. (Ed.) 1999. Concise Oxford Dictionary. Tenth Edition. Clarendon Press, Oxford, UK. 1666 pp. Percival
 [^ref3]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
-[^ref4]: Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
-[^ref5]: Orwa, C., a. Mutua, R. Kindt, R. Jamnadass, and S. Anthony. 2009. “Cocos Nucifera Arecaceae.” World Agroforestry Database 0: 1–5.
-[^ref6]: Chan E, Elevitch CR, 2006. Cocos nucifera (coconut), ver. 2.1. Species profiles for Pacific island agroforestry [ed. by Elevitch, C. R.]. Honolulu, Hawaii, USA: Permanent Agriculture Resources (PAR).
+[^ref4]: Orwa, C., a. Mutua, R. Kindt, R. Jamnadass, and S. Anthony. 2009. “Cocos Nucifera Arecaceae.” World Agroforestry Database 0: 1–5.
+[^ref5]: Chan E, Elevitch CR, 2006. Cocos nucifera (coconut), ver. 2.1. Species profiles for Pacific island agroforestry [ed. by Elevitch, C. R.]. Honolulu, Hawaii, USA: Permanent Agriculture Resources (PAR).
+[^ref6]: 
