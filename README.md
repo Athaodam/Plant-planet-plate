@@ -87,8 +87,9 @@ Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. 
 
 **Ja Huoy Doung ចាហួយដូង**
 
-It’s hard to imagine a Cambodian dessert without coconut, palm sugar, rice, tapioca, or fruit involved. This coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and balanced with the light crunch of shredded coconut within every bite. It’s no surprise it is a well-known and very popular treat at social gatherings. 
+It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and balanced with the light crunch of shredded coconut within every bite. It’s no surprise it is a well-known and very popular treat at social gatherings. 
 
+<param ve-entity eid="Q107368499"> <!--Cambodian desserts-->
 
 
 
