@@ -49,6 +49,10 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
 Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. Overall, the top three producers are The Philippines, Indonesia, and India. 
 
 <param ve-image title="Countries which produce coconuts" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png">
+    label=""
+       attribution="JackinTheBox, Wiki Commons"
+       license="CC BY SA 4.0"> 
+3594,247,3238,2656
 
 ## Historical Overview
 
