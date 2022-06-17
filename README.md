@@ -68,6 +68,26 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 ## Food and Cuisine
 
+<param ve-entity eid="Q201028"> <!--Khmer ethnic group-->
+
+Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes.
+
+
+In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
+
+###Amok 
+<param ve-entity eid="Q4350424"> <!--Amok-->
+Amok is a steamed curry with a coconut cream base cooked while enveloped in banana leaves. It is considered one of, if not the, national dish of Cambodia. While there are some variations that use chicken, pork, beef, or tofu as the protein base, the original dish calls for freshwater fish like snakehead or goby. It was said to be a dish created during the times of the glorious Khmer Empire – a delicacy fit only for royalty (Gillan, 2017). Some variations feature different nutritious greens, all of which are dependent on the season (Nak, 2019). It is eaten for both lunch and dinner with some steamed white rice. However, it is not an everyday dish. While some restaurants in Cambodia do serve Amok, it typically takes a long time to make if made the traditional way. As a result, arguably “authentic” Amok is a celebratory dish you might find at weddings or other important ceremonies. 
+
+
+###Cha Kreung
+Kreung is a fundamental spice paste base for many dishes in Cambodian cuisine. At the heart of it all is lemongrass, but the makrut lime leaves, galangal, garlic, shallots, and turmeric all have their role. This stir-fry dish combines kreung together with coconut cream and a protein of choice. Occasionally, additional vegetables and chilis will be added. It is served for lunch and dinner with some steamed white rice.
+
+
+
+###Ja Huoy Doung
+It’s hard to imagine a Cambodian dessert without coconut, palm sugar, rice, tapioca, or fruit involved. This coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and balanced with the light crunch of shredded coconut within every bite. It’s no surprise it is a well-known and very popular treat at social gatherings. 
+
 
 
 
