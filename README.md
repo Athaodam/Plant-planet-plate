@@ -61,11 +61,12 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 
 
-## Map
+## Global Dispersion
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-image title="Countries which produce coconuts" url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png">
 
  
 
