@@ -31,6 +31,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 
 ## Botanical Details
 
+<param ve-plant-specimen eid="Q13099531" max="1"> <!--Cocos-->
 
 Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
@@ -40,7 +41,7 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
        license="Creative Commons"
        fit="contain">
        
-<param ve-plant-specimen eid="Q13099531" max="1"> <!--Cocos-->
+
 
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
@@ -74,18 +75,13 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 
 ## Traditional and Folk Medicine 
-
-
-       
-Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD). Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
-
-**Traditional Khmer Medicine has _four_ primary forms of care:**
-
+Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD) of the Khmer Empire. Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
 <param ve-image url="IMG_0321.JPEG"
        label="Traditional Khmer medicinal wines"
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
        
+**Traditional Khmer Medicine has _four_ primary forms of care:**
 * Humoral Maintenance
 * Herbal Medicines 
 * Dermabrasion 
@@ -94,6 +90,7 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
        
 <param ve-entity eid="Q132325"> <!--Ayurveda-->
 <param ve-entity eid="Q200253"> <!--Traditional Chinese Medicine-->
+<param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 
 Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
@@ -113,8 +110,6 @@ However, it is important to note that these complexions have nothing to do with 
        fit="contain">
 
 
-
-<param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 ## Food and Cuisine
 
