@@ -77,8 +77,6 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
 <param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/a8f87a507bbae2987a91c7d448a75a5e2f8dd1a0/IMG_0321.JPEG"
        label="Khmer traditional medicinal wines"
        fit="contain">
-
-
 Traditional Khmer Medicine has _four_ primary forms of care:
 * Humoral Maintenance
 * Herbal Medicines
