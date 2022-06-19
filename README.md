@@ -152,5 +152,4 @@ Cambodian cuisine is both complex and simple. It relies heavily on local ingredi
 [^ref5]: Chan E, Elevitch CR, 2006. Cocos nucifera (coconut), ver. 2.1. Species profiles for Pacific island agroforestry [ed. by Elevitch, C. R.]. Honolulu, Hawaii, USA: Permanent Agriculture Resources (PAR).
 [^ref6]: 
 
-https://www.nationalgeographic.co.uk/2017/09/cambodia-the-art-of-amok
-https://minorityrights.org/country/cambodia/#:~:text=Ethnic%20Khmer%20make%20up%2090,Krom%20and%20the%20Kuy%20people.
+
