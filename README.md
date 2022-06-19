@@ -105,7 +105,6 @@ Cambodian cuisine is both complex and simple. It relies heavily on local ingredi
 **Amok អាម៉ុក** 
 
 <param ve-image title="Amok, Khmer steamed fish curry" url="https://static.nationalgeographic.co.uk/files/styles/image_3200/public/fish-amok.png.webp?w=1600&h=1113&q=100">
-
 Amok is a steamed curry with a coconut cream base cooked while enveloped in banana leaves. It is considered one of, if not the, national dish of Cambodia. While there are some variations that use chicken, pork, beef, or tofu as the protein base, the original dish calls for freshwater fish like snakehead or goby. It was said to be a dish created during the times of the glorious Khmer Empire – a delicacy fit only for royalty (Gillan, 2017). Some variations feature different nutritious greens, all of which are dependent on the season (Nak, 2019). It is eaten for both lunch and dinner with some steamed white rice. However, it is not an everyday dish. While some restaurants in Cambodia do serve Amok, it typically takes a long time to make if made the traditional way. As a result, arguably “authentic” Amok is a celebratory dish you might find at weddings or other important ceremonies. 
 
 
@@ -114,7 +113,6 @@ Amok is a steamed curry with a coconut cream base cooked while enveloped in bana
 **Cha Kroeung ឆាគ្រឿង**
 
 <param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://user-images.githubusercontent.com/87992437/174494103-03c737d4-b93c-4496-95f1-1a8f7b899641.png">
-
 Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. At the heart of it all is lemongrass, but the makrut lime leaves, galangal, garlic, shallots, and turmeric all have their role. This stir-fry dish combines Kroeung together with coconut cream and a protein of choice. Occasionally, additional vegetables and chilis will be added. It is served for lunch and dinner with some steamed white rice.
 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
@@ -122,7 +120,6 @@ Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. 
 **Nhum Chakchan នំច័ក្កច័ន**
 
 <param ve-image title="Nhum Chakcan, Khmer layered coconut dessert" url="https://i.ytimg.com/vi/YO0XdJjF4TA/maxresdefault.jpg">
-
 It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This layered coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and adds a pop of colour in every bite. It’s no surprise it is a well-known and very popular treat at social gatherings and holiday celebrations. There are so many different variations using different shapes and colours.  
 
 <param ve-entity eid="Q107368499"> <!--Cambodian desserts-->
