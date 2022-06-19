@@ -81,11 +81,7 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
        
-**Traditional Khmer Medicine has _four_ primary forms of care:**
-* Humoral Maintenance
-* Herbal Medicines 
-* Dermabrasion 
-* Spiritual Offerings
+**Traditional Khmer Medicine has _four_ primary forms of care:** Humoral Maintenance, herbal medicines, dermabrasion  and spiritual offerings. There are many different types of TKM healers, but many people often refer to them as _Kru Khmer_ or "Khmer Teachers". TKM healers are often leaders or active members of their community who hold many other roles in addition to that of healer -- for example, some are also Buddhist monks.
 <param ve-image url="44300033.JPG"
        label="Khmer Traditional 'Soul-caller' or Spiritual healer"
        attribution="Ashley Thuthao Keng Dam"
@@ -97,7 +93,7 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
 <param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 
-Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
+Both the TKM and KFM systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
 
 <param ve-image url="https://www.nlm.nih.gov/exhibition/shakespeare/assets/four-humors.png"
        label= "The Four Humors"
@@ -106,7 +102,7 @@ Both systems partially relay on a humoral framework, meaning that the body is be
        fit="contain">
 
 
-However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. Also, different humors have been historically associated with different bodily organs, seasons, and temperaments. These associations often played a role in the diagnosing and treatment of one’s illnesses – people often blamed bad weather, rotten food, or emotional events as triggers for disease and sickness.
+However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. Also, different humors have been historically associated with different bodily organs, seasons, and temperaments. These associations often played a role in the diagnosing and treatment of one’s illnesses – people often blamed bad weather, rotten food, or emotional events as triggers for disease and sickness. Doctors would then prescribe specific foods or activities to alleviate the humoral imbalance in order to correct it. Certain foods were suggested to be avoided or eaten, in addition to changes in one's behaviour and or activities. There are numerous debates about _where_ and _when_ the humoral model began, considering many ancient systems of medicine, from different corners fo the world and contexts, arrived at similar ideas around health and disease.
 <param ve-image url"https://github.com/Athaodam/Plant-planet-plate/blob/8488a1c6d3913fb1e3e89b866f7200c50389096d/Doctor%20at%20bedside,%20taking%20a%20pulse%201555.tif"
        label="Woodcut from Walther Ryff, Spiegel und Regiment der Gesundheyt (Mirror and Regimen of Health), 1555"
        attribution="National Library of Medicine
