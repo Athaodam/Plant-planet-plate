@@ -44,7 +44,7 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. At a global level, the top three producers of coconuts are The Philippines, Indonesia, and India. 
 
 <param ve-image
-       url="https://external-preview.redd.it/cxa90-89_LIt2SvmHU1z7HpPldKt2yo-xdcBQh7q1Qo.png?auto=webp&s=1588997d3bda58bb2d704b4ea3b3436bb038b8f7"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7b/Coconut_distribution.png"
        label="Cocos nucifera global dispersion"
        attribution="Wiki Commons"
        license="CC BY SA 4.0"
