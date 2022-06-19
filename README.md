@@ -83,6 +83,7 @@ Cambodian cuisine is both complex and simple. It relies heavily on local ingredi
 In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
 
 **Amok អាម៉ុក** 
+
 Amok is a steamed curry with a coconut cream base cooked while enveloped in banana leaves. It is considered one of, if not the, national dish of Cambodia. While there are some variations that use chicken, pork, beef, or tofu as the protein base, the original dish calls for freshwater fish like snakehead or goby. It was said to be a dish created during the times of the glorious Khmer Empire – a delicacy fit only for royalty (Gillan, 2017). Some variations feature different nutritious greens, all of which are dependent on the season (Nak, 2019). It is eaten for both lunch and dinner with some steamed white rice. However, it is not an everyday dish. While some restaurants in Cambodia do serve Amok, it typically takes a long time to make if made the traditional way. As a result, arguably “authentic” Amok is a celebratory dish you might find at weddings or other important ceremonies. 
 
 <param ve-image title="Amok, Khmer steamed fish curry" url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Amok_Cambodian_curry.jpg/640px-Amok_Cambodian_curry.jpg">
@@ -98,6 +99,7 @@ Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
 
 **Ja Huoy Doung ចាហួយដូង**
+
 It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and balanced with the light crunch of shredded coconut within every bite. It’s no surprise it is a well-known and very popular treat at social gatherings. 
 
 <param ve-entity eid="Q107368499"> <!--Cambodian desserts-->
