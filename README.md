@@ -32,10 +32,12 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-
-
 Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
+<param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/main/Coconuts%20and%20trees%20(Cocos%20nucifera),%20a%20cinnamon%20tree%20(Cinnamomum%20verum)%20and%20pinang%20tree%20(Areca%20catechu),%20in%20a%20tropical%20landscape.%20Line%20engraving%20after%20J.%20Nieuhoff..jpg?raw=true"
+       label= "Coconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu), in a tropical landscape. Line engraving after J. Nieuhoff (1682)"
+       fit="contain">
+       
 <param ve-plant-specimen eid="Q13099531" max="1"> <!--Cocos-->
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
