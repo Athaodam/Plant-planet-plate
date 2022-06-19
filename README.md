@@ -31,10 +31,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 ## Botanical Details
 
 
-<param ve-image url="[https://ia802702.us.archive.org/BookReader/BookReaderImages.phpid=historyofcoconut00cook&itemPath=%2F0%2Fitems%2Fhistoryofcoconut00cook&server=ia802702.us.archive.org&page=n8_w352](https://ia902702.us.archive.org/BookReader/BookReaderImages.php?id=historyofcoconut00cook&itemPath=%2F0%2Fitems%2Fhistoryofcoconut00cook&server=ia902702.us.archive.org&page=n8_w352)"
-       label="Page 'from Contributions from the United States National Herbarium' showing the use of 'cocoanut' (1890)"
-       attribution="Biodiversity Heritage Library"
-       license="Public Domain">
+<param ve-plant-specimen>
 
 Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
@@ -49,7 +46,7 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
        attribution="Wiki Commons"
        license="CC BY SA 4.0">
 
-Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. Overall, the top three producers are The Philippines, Indonesia, and India. 
+Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. At a global level, the top three producers of coconuts are The Philippines, Indonesia, and India. 
 
 
 ## Historical Overview
@@ -88,10 +85,14 @@ In Cambodia, the entirety of the coconut tree is used for many things – buildi
 **Amok អាម៉ុក** 
 Amok is a steamed curry with a coconut cream base cooked while enveloped in banana leaves. It is considered one of, if not the, national dish of Cambodia. While there are some variations that use chicken, pork, beef, or tofu as the protein base, the original dish calls for freshwater fish like snakehead or goby. It was said to be a dish created during the times of the glorious Khmer Empire – a delicacy fit only for royalty (Gillan, 2017). Some variations feature different nutritious greens, all of which are dependent on the season (Nak, 2019). It is eaten for both lunch and dinner with some steamed white rice. However, it is not an everyday dish. While some restaurants in Cambodia do serve Amok, it typically takes a long time to make if made the traditional way. As a result, arguably “authentic” Amok is a celebratory dish you might find at weddings or other important ceremonies. 
 
+<param ve-image title="Amok, Khmer steamed fish curry" url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Amok_Cambodian_curry.jpg/640px-Amok_Cambodian_curry.jpg">
+
 
 <param ve-entity eid="Q4350424"> <!--Amok-->
 
 **Cha Kroeung ឆាគ្រឿង**
+<param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Amok_Cambodian_curry.jpg/640px-Amok_Cambodian_curry.jpg">
+
 Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. At the heart of it all is lemongrass, but the makrut lime leaves, galangal, garlic, shallots, and turmeric all have their role. This stir-fry dish combines Kroeung together with coconut cream and a protein of choice. Occasionally, additional vegetables and chilis will be added. It is served for lunch and dinner with some steamed white rice.
 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
