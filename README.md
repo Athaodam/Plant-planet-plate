@@ -86,6 +86,10 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
 * Herbal Medicines 
 * Dermabrasion 
 * Spiritual Offerings
+<param ve-image url="44300033.JPG"
+       label="Khmer Traditional 'Soul-caller' or Spiritual healer"
+       attribution="Ashley Thuthao Keng Dam"
+       fit="contain">
 
        
 <param ve-entity eid="Q132325"> <!--Ayurveda-->
@@ -103,7 +107,6 @@ Both systems partially relay on a humoral framework, meaning that the body is be
 
 
 However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. Also, different humors have been historically associated with different bodily organs, seasons, and temperaments. These associations often played a role in the diagnosing and treatment of one’s illnesses – people often blamed bad weather, rotten food, or emotional events as triggers for disease and sickness.
-
 <param ve-image url"https://github.com/Athaodam/Plant-planet-plate/blob/8488a1c6d3913fb1e3e89b866f7200c50389096d/Doctor%20at%20bedside,%20taking%20a%20pulse%201555.tif"
        label="Woodcut from Walther Ryff, Spiegel und Regiment der Gesundheyt (Mirror and Regimen of Health), 1555"
        attribution="National Library of Medicine
