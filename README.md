@@ -75,8 +75,11 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD). Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
 
-Traditional Khmer Medicine has _four_ primary forms of care: * Humoral Maintenance
-* Herbal Medicines * Dermabrasion * Spiritual Offerings
+**Traditional Khmer Medicine has _four_ primary forms of care:**
+* Humoral Maintenance
+* Herbal Medicines 
+* Dermabrasion 
+* Spiritual Offerings
 
        
 <param ve-entity eid="Q132325"> <!--Ayurveda-->
