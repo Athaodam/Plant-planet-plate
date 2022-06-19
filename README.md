@@ -108,7 +108,7 @@ However, it is important to note that these complexions have nothing to do with 
        attribution="National Library of Medicine
        fit="contain">
 
-
+Coconuts, depending on what stage of growth or part being used, have different humoral complexions in both the TKM and KFM systems. As a result, for some diseases or illnesses, different parts of the coconut may be prescribed as medicine, while others can be considered harmful and are suggested to be avoided entirely. At times, these differences cause difficulties for people seeking care using TKM and KFM medicines. For example, during maternity, it is important for a pregnant person to consume special maternity wines or _sraa saaw_ (white rice wines) for a variety of reasons beneficial to individual health, the unborn child’s health, and beyond. Many of these _sraa saaw_ include various fruits like the coconut, mixed together with rice grains, and fermented for some time. While the coconut water is considered nourishing for its humoral “cooling” effects during pregnancy, eating the coconut’s flesh is discouraged because it is believed to make delivery harder because of its high fat content. Therefore, pregnant people must proceed with caution when it comes to their use and consumption of coconuts, both as food and or medicine, under the TKM and KFM systems. 
 
 ## Food and Cuisine
 
