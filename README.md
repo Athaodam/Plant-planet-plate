@@ -47,7 +47,8 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png"
        label="Countries which produce coconuts"
        attribution="Wiki Commons"
-       license="CC BY SA 4.0">
+       license="CC BY SA 4.0"
+       fit="contain">
 
 
 
@@ -73,7 +74,8 @@ Coconuts are widely used in both Khmer Traditional (KTM) and Folk medicine (KFM)
 <param ve-image url="https://www.nlm.nih.gov/exhibition/shakespeare/assets/four-humors.png"
        label= "The Four Humors"
        attribution= "National Institutes of Health (NIH)"
-       license="Public Domain">
+       license="Public Domain"
+       fit="contain">
 One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. 
 
 <param ve-entity eid="Q201705"> <!--Khmer Empire-->
