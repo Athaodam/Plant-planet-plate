@@ -22,7 +22,8 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg"
        label="'Cocos nucifera Linn.' by José Joaquim Freire (1760-1847)"
        attribution="Wiki Commons"
-       license="CC BY 2.0">
+       license="CC BY 2.0"
+       fit="contain">
 
 <param ve-entity eid="Q7845753"> <!--tropical Asia-->
 <param ve-entity eid="Q55643"> <!--Oceania--> 
