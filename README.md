@@ -81,9 +81,10 @@ One is considered healthiest when the bodily humors of blood, yellow bile, black
 <param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 ## Food and Cuisine
-
+<param ve-image url="https://a.cdn-hotels.com/gdcs/production51/d1045/381fbd5d-5163-46b0-8a78-c72554acff3c.jpg">
 
 Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
+
 
 <param ve-entity eid="Q201028"> <!--Khmer-->
 
