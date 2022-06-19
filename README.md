@@ -75,6 +75,10 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Khmer Traditional (KTM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). 
 
+<param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/a8f87a507bbae2987a91c7d448a75a5e2f8dd1a0/IMG_0321.JPEG"
+       label="Khmer traditional medicinal wines"
+       fit="contain">
+
 <param ve-image url="https://www.nlm.nih.gov/exhibition/shakespeare/assets/four-humors.png"
        label= "The Four Humors"
        attribution= "National Institutes of Health (NIH)"
