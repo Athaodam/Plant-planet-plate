@@ -36,7 +36,7 @@ It’s hard to imagine a tropical paradise without the inclusion of coconuts. Wi
 Colloquially, the term “coconut” is used to refer to either the seed or fruit of the coconut palm or _Cocos nucifera_;   older archival documents have also referred to coconuts with the spelling “cocoanut”.[^ref2]  _Cocos_ refers to the monotypic genus of the family _Arecaceae_, while _nucifera_ translates to “nut bearing”. [^ref3] Hilariously, the “nut” of coconut is a misnomer because the  fruit is botanically a drupe.[^ref3]  This scientific name also takes inspiration from early Spanish explorers’ descriptions, who compared the indentations and shagginess of the coconut to resemble a monkey’s head and face.  
 
 
-
+<param ve-plant-specimen eid="Q13187" max="1"> <!--Cocos nucifera-->
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
 
