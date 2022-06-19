@@ -109,10 +109,13 @@ In Cambodia, the entirety of the coconut tree is used for many things – buildi
 
 <param ve-video id="EkSXidCH_kA" 
        title="Khmer Traditional Coconut Dance, 1969"
-       start="0:44">
+       start="00:44">
 
 
 Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
+
+
+
 
 
 <param ve-image url="https://www.visit-angkor.org/wp-content/uploads/2022/04/offering-table-khmer-new-year.jpg" 
