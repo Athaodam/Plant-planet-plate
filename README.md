@@ -73,7 +73,7 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 
 ## Traditional and Folk Medicine 
-Coconuts are widely used in both Khmer Traditional (KTM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). While the exact origins of KTM is not known, it  Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). 
+Coconuts are widely used in both Khmer Traditional (KTM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). 
 
 <param ve-image url="https://www.nlm.nih.gov/exhibition/shakespeare/assets/four-humors.png"
        label= "The Four Humors"
@@ -99,8 +99,15 @@ In Cambodia, the entirety of the coconut tree is used for many things – buildi
 
 Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
 
+<param ve-image url="https://www.visit-angkor.org/wp-content/uploads/2022/04/offering-table-khmer-new-year.jpg" 
+       fit="contain>
+            
+<param ve-image url="https://www.ibj.org/wp_main/wp-content/uploads/2014/04/DSC02781-1024x556.jpg"
+       fit="contain">
+       
 <param ve-image url="https://a.cdn-hotels.com/gdcs/production51/d1045/381fbd5d-5163-46b0-8a78-c72554acff3c.jpg"
        fit="contain">
+       
 
 <param ve-entity eid="Q201028"> <!--Khmer-->
 
