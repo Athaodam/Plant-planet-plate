@@ -44,20 +44,24 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 
 Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. Overall, the top three producers are The Philippines, Indonesia, and India. 
 
-<param ve-image title="Countries which produce coconuts" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png">
-    label=""
-       attribution="JackinTheBox, Wiki Commons"
-       license="CC BY SA 4.0"> 
-3594,247,3238,2656
-
+<param ve-image
+       url="[https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png)"
+       label="Countries which produce coconuts"
+       attribution="Wiki Commons"
+       license="CC BY SA 4.0">
 ## Historical Overview
 
 
 The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
 
-<param ve-image title="Gondwana, shown centred from the South Pole" url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gondwana_420_Ma.png"?
+<param ve-image title="" url=""?
        label="Gondwana, shown centred from the South Pole"
        attribution= Wiki Commons"
+                                 
+ <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gondwana_420_Ma.png"
+       label="Gondwana, shown centred from the South Pole"
+       attribution="Wiki Commons"
+       license="Public Domain">   
                              
 <param ve-entity eid="Q80583"> <!--Gondwana-->
 <param ve-entity eid="Q206070"> <!--Birgus latro-->
