@@ -5,7 +5,7 @@
 <param ve-config 
        title="Coconut ដូង (Cocos nucifera)"
        author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="https://iiif.juncture-digital.org/banner/?url= https://github.com/Athaodam/Plant-planet-plate/blob/65f06d520b83f69ba48042490ec69bfef67dbb12/Coconuts%20and%20trees%20(Cocos%20nucifera),%20a%20cinnamon%20tree%20(Cinnamomum%20verum)%20and%20pinang%20tree%20(Areca%20catechu),%20in%20a%20tropical%20landscape.%20Line%20engraving%20after%20J.%20Nieuhoff..jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/Sihanoukville_Province_-_coconut_palms.jpg" 
        layout="vertical">
 
 
