@@ -40,25 +40,25 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 <param ve-entity eid="Q14712"> <!--drupe-->
 <param ve-entity eid="Q14080"> <!--Arecaceae-->
 
+
+Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. At a global level, the top three producers of coconuts are The Philippines, Indonesia, and India. 
+
 <param ve-image
-       url="[https://upload.wikimedia.org/wikipedia/commons/8/8b/%28Cocos_nucifera%2C_Linn.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png)"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Countries_by_coconut_production_in_2020.png"
        label="Countries which produce coconuts"
        attribution="Wiki Commons"
        license="CC BY SA 4.0">
 
-Coconut palms grow best in locations with free-draining aerated soil, access to fresh groundwater, consistent humidity, and temperatures ranging between 27°C and 30°C.  It is considered a native species in the countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.  Its exotic distribution range is large and multicontinental, typically spanning cross tropical regions located from 25° North and 25° South of the equator.[^ref4] As previously mentioned, coconuts have high capacity of natural dispersion because they can float and are very resilient-- they can stay afloat for up to 120 days in seawater and readily germinate once they make landfall.[^ref5] Unsurprisingly, many countries all over the world are involved in the growth and production of coconuts. At a global level, the top three producers of coconuts are The Philippines, Indonesia, and India. 
 
 
-## Historical Overview
+## Historical Overview                        
+
+The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
 
  <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gondwana_420_Ma.png"
        label="Gondwana, shown centred from the South Pole"
        attribution="Wiki Commons"
        license="Public Domain">   
-                             
-
-The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
-
 
                                  
 
@@ -92,17 +92,20 @@ Amok is a steamed curry with a coconut cream base cooked while enveloped in bana
 <param ve-entity eid="Q4350424"> <!--Amok-->
 
 **Cha Kroeung ឆាគ្រឿង**
-<param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://user-images.githubusercontent.com/87992437/174494103-03c737d4-b93c-4496-95f1-1a8f7b899641.png">
+
 
 Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. At the heart of it all is lemongrass, but the makrut lime leaves, galangal, garlic, shallots, and turmeric all have their role. This stir-fry dish combines Kroeung together with coconut cream and a protein of choice. Occasionally, additional vegetables and chilis will be added. It is served for lunch and dinner with some steamed white rice.
+
+<param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://user-images.githubusercontent.com/87992437/174494103-03c737d4-b93c-4496-95f1-1a8f7b899641.png">
 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
 
 **Nhum Chakchan នំច័ក្កច័ន**
-<param ve-image title="Nhum Chakcan, Khmer layered coconut dessert" url="https://i.ytimg.com/vi/YO0XdJjF4TA/maxresdefault.jpg">
+
 
 It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This layered coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and adds a pop of colour in every bite. It’s no surprise it is a well-known and very popular treat at social gatherings and holiday celebrations. There are so many different variations using different shapes and colours.  
 
+<param ve-image title="Nhum Chakcan, Khmer layered coconut dessert" url="https://i.ytimg.com/vi/YO0XdJjF4TA/maxresdefault.jpg">
 
 <param ve-entity eid="Q107368499"> <!--Cambodian desserts-->
 
