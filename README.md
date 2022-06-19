@@ -81,18 +81,18 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
        label="Life carving from Bayon Temple in Siem Reap, Cambodia"
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
+
        
+<param ve-entity eid="Q132325"> <!--Ayurveda-->
+<param ve-entity eid="Q200253"> <!--Traditional Chinese Medicine-->
+<param ve-entity eid="Q201705"> <!--Khmer Empire-->
+
        
 **Traditional Khmer Medicine has _four_ primary forms of care:** (1) humoral maintenance, (2) herbal medicines, (3) dermabrasion  and (4) spiritual offerings. There are many different types of TKM healers, but many people often refer to them as _Kru Khmer_ or "Khmer Teachers". TKM healers are often leaders or active members of their community who hold many other roles in addition to that of healer -- for example, some are also Buddhist monks.
 <param ve-image url="44300033.JPG"
        label="Khmer Traditional 'Soul-caller' or Spiritual healer"
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
-
-       
-<param ve-entity eid="Q132325"> <!--Ayurveda-->
-<param ve-entity eid="Q200253"> <!--Traditional Chinese Medicine-->
-<param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 
 Both the TKM and KFM systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
