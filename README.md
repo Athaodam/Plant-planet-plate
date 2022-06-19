@@ -70,6 +70,8 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Khmer Traditional (KTM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). 
 
+<param ve-tabulator url="https://drive.google.com/file/d/1Q7_XZk6c8EQeZmjbjq97-9bZ7bA87zGE/view?usp=sharing">
+
 One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. 
 
 <param ve-entity eid="Q201705"> <!--Khmer Empire-->
