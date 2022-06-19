@@ -58,7 +58,7 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
 
 ## Historical Overview                        
 
-The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
+The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to  humans. It's difficult to pinpoint when and where humans first started using coconuts, given that much archaeological evidence has been lost to time and the elements. 
 
  <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gondwana_420_Ma.png"
        label="Gondwana, shown centred from the South Pole"
@@ -75,9 +75,7 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD). Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
 
-<param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/a8f87a507bbae2987a91c7d448a75a5e2f8dd1a0/IMG_0321.JPEG"
-       label="Khmer traditional medicinal wines"
-       fit="contain">
+
 
 Traditional Khmer Medicine has _four_ primary forms of care:
 * Humoral Maintenance
@@ -85,6 +83,10 @@ Traditional Khmer Medicine has _four_ primary forms of care:
 * Dermabrasion
 * Spiritual Offerings
 
+<param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/ffcc5b13a638befab5982ccdd97ee1794f5009be/IMG_0321.JPEG"
+       label="Khmer traditional medicinal wines"
+       fit="contain">
+       
 <param ve-entity eid="Q132325"> <!--Ayurveda-->
 <param ve-entity eid="Q200253"> <!--Traditional Chinese Medicine-->
 
