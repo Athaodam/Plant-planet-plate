@@ -83,16 +83,15 @@ One is considered healthiest when the bodily humors of blood, yellow bile, black
 
 ## Food and Cuisine
 
+In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, folk dances, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
 
-
-<param ve-video id="EkSXidCH_kA" title="Khmer Traditional Coconut Dance, 1969">
+<param ve-video id="EkSXidCH_kA" 
+       title="Khmer Traditional Coconut Dance, 1969">
 
 <param ve-image url="http://www.amazon-angkor.com/userfiles/thumbs/coconut-dance.jpg"
        label= "Khmer Traditional Coconut Dance"
        attribution="Amazon Angkor Restaurant"
        fit="contain">
-
-In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, folk dances, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
 
 Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
 
@@ -119,6 +118,7 @@ Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
 
 **Nhum Chakchan នំច័ក្កច័ន**
+
 It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This layered coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and adds a pop of colour in every bite. It’s no surprise it is a well-known and very popular treat at social gatherings and holiday celebrations. There are so many different variations using different shapes and colours.  
 
 <param ve-image title="Nhum Chakcan, Khmer layered coconut dessert" url="https://i.ytimg.com/vi/YO0XdJjF4TA/maxresdefault.jpg">
