@@ -55,6 +55,10 @@ Coconut palms grow best in locations with free-draining aerated soil, access to 
 
 The origins of the coconut began with the breaking up of the pre-historic landmass Gondwana approximately 80 million years ago.  The ancestors of the coconut palm flourished on Gondwana’s northern coasts, where they thrived on the sandy spaces right above high-tide lines.  Unsurprisingly, these coconut palms provided ample nutrients to the inhabitants of these areas – from scurrying coconut crabs (_Birgus latro_) and giant white-tailed rats (_Uromys caudimaculata_) to early humans.
 
+<param ve-image title="Gondwana, shown centred from the South Pole" url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gondwana_420_Ma.png"?
+       label="Gondwana, shown centred from the South Pole"
+       attribution= Wiki Commons"
+                             
 <param ve-entity eid="Q80583"> <!--Gondwana-->
 <param ve-entity eid="Q206070"> <!--Birgus latro-->
 <param ve-entity eid="Q677267"> <!--Uromys caudimaculata-->
