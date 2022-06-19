@@ -76,10 +76,12 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD) of the Khmer Empire. Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
-<param ve-image url="IMG_0321.JPEG"
-       label="Traditional Khmer medicinal wines"
-       attribution="Ashley Thuthao Keng Dam"
+
+<param ve-image url="3708F571-FF12-49EF-8294-9525E0D08264.jpg"
+       label="Life carving from Bayon Temple in Siem Reap, Cambodia"
+       attributition="Ashley Thuthao Keng Dam"
        fit="contain">
+       
        
 **Traditional Khmer Medicine has _four_ primary forms of care:** (1) humoral maintenance, (2) herbal medicines, (3) dermabrasion  and (4) spiritual offerings. There are many different types of TKM healers, but many people often refer to them as _Kru Khmer_ or "Khmer Teachers". TKM healers are often leaders or active members of their community who hold many other roles in addition to that of healer -- for example, some are also Buddhist monks.
 <param ve-image url="44300033.JPG"
@@ -100,6 +102,8 @@ Both the TKM and KFM systems partially relay on a humoral framework, meaning tha
        attribution= "National Institutes of Health (NIH)"
        license="Public Domain"
        fit="contain">
+       
+<param ve-entity eid-"Q5782572"> <!--humoral framework"-->
 
 
 However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. Also, different humors have been historically associated with different bodily organs, seasons, and temperaments. These associations often played a role in the diagnosing and treatment of one’s illnesses – people often blamed bad weather, rotten food, or emotional events as triggers for disease and sickness. Doctors would then prescribe specific foods or activities to alleviate the humoral imbalance in order to correct it. Certain foods were suggested to be avoided or eaten, in addition to changes in one's behaviour and or activities. There are numerous debates about _where_ and _when_ the humoral model began, considering many ancient systems of medicine, from different corners fo the world and contexts, arrived at similar ideas around health and disease.
@@ -109,6 +113,13 @@ However, it is important to note that these complexions have nothing to do with 
        fit="contain">
 
 Coconuts, depending on what stage of growth or part being used, have different humoral complexions in both the TKM and KFM systems. As a result, for some diseases or illnesses, different parts of the coconut may be prescribed as medicine, while others can be considered harmful and are suggested to be avoided entirely. At times, these differences cause difficulties for people seeking care using TKM and KFM medicines. For example, during maternity, it is important for a pregnant person to consume special maternity wines or _sraa saaw_ (white rice wines) for a variety of reasons beneficial to individual health, the unborn child’s health, and beyond. Many of these _sraa saaw_ include various fruits like the coconut, mixed together with rice grains, and fermented for some time. While the coconut water is considered nourishing for its humoral “cooling” effects during pregnancy, eating the coconut’s flesh is discouraged because it is believed to make delivery harder because of its high fat content. Therefore, pregnant people must proceed with caution when it comes to their use and consumption of coconuts, both as food and or medicine, under the TKM and KFM systems. 
+                    
+<param ve-image url="IMG_0321.JPEG"
+       label="Traditional Khmer medicinal wines"
+       attribution="Ashley Thuthao Keng Dam"
+       fit="contain">
+                    
+                    
 
 ## Food and Cuisine
 
