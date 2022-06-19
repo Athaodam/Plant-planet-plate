@@ -92,15 +92,15 @@ Amok is a steamed curry with a coconut cream base cooked while enveloped in bana
 <param ve-entity eid="Q4350424"> <!--Amok-->
 
 **Cha Kroeung ឆាគ្រឿង**
-<param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Amok_Cambodian_curry.jpg/640px-Amok_Cambodian_curry.jpg">
+<param ve-image title="Cha Kroeung, Khmer lemongrass stir-fry" url="https://user-images.githubusercontent.com/87992437/174494103-03c737d4-b93c-4496-95f1-1a8f7b899641.png">
 
 Kroeung is a fundamental spice paste base for many dishes in Cambodian cuisine. At the heart of it all is lemongrass, but the makrut lime leaves, galangal, garlic, shallots, and turmeric all have their role. This stir-fry dish combines Kroeung together with coconut cream and a protein of choice. Occasionally, additional vegetables and chilis will be added. It is served for lunch and dinner with some steamed white rice.
 
 <param ve-entity eid="Q958214"> <!--Kroeung-->
 
-**Ja Huoy Doung ចាហួយដូង**
+**Nhum Chakchan នំច័ក្កច័ន**
 
-It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and balanced with the light crunch of shredded coconut within every bite. It’s no surprise it is a well-known and very popular treat at social gatherings. 
+It’s hard to imagine Cambodian desserts without coconut, palm sugar, rice, tapioca, or fruit involved. This layered coconut cream jelly is quick and easy to prepare. It is sweet, bouncy, and adds a pop of colour in every bite. It’s no surprise it is a well-known and very popular treat at social gatherings and holiday celebrations. There are so many different variations using different shapes and colours.  
 
 <param ve-entity eid="Q107368499"> <!--Cambodian desserts-->
 
