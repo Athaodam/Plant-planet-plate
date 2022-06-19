@@ -36,6 +36,8 @@ Colloquially, the term “coconut” is used to refer to either the seed or frui
 
 <param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/main/Coconuts%20and%20trees%20(Cocos%20nucifera),%20a%20cinnamon%20tree%20(Cinnamomum%20verum)%20and%20pinang%20tree%20(Areca%20catechu),%20in%20a%20tropical%20landscape.%20Line%20engraving%20after%20J.%20Nieuhoff..jpg?raw=true"
        label= "Coconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu), in a tropical landscape. Line engraving after J. Nieuhoff (1682)"
+       attribution="Wellcome Collection via JSTOR"
+       license="Creative Commons"
        fit="contain">
        
 <param ve-plant-specimen eid="Q13099531" max="1"> <!--Cocos-->
