@@ -74,15 +74,19 @@ The origins of the coconut began with the breaking up of the pre-historic landma
 
 ## Traditional and Folk Medicine 
 Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM) systems (White 1996; White 2004; Walker 2017; Dam 2022). The difference between Khmer “traditional” versus “folk” medicine is that TKM practices are led by specialist healers, while KFM are the applications of these TKM practices by people who are not trained healers. TKM began during the Angkor Period (9 to 15 century AD). Early TKM practitioners combined aspects of other nearby medical systems, such as Ayurveda and Traditional Chinese Medicine (TCM), along with local beliefs and superstitions to form the basis of TKM as we know it (Ashwell and Walston, 2008). 
+
 <param ve-image url="https://github.com/Athaodam/Plant-planet-plate/blob/a8f87a507bbae2987a91c7d448a75a5e2f8dd1a0/IMG_0321.JPEG"
        label="Khmer traditional medicinal wines"
        fit="contain">
+
 Traditional Khmer Medicine has _four_ primary forms of care:
 * Humoral Maintenance
 * Herbal Medicines
 * Dermabrasion
 * Spiritual Offerings
 
+<param ve-entity eid="Q132325"> <!--Ayurveda-->
+<param ve-entity eid="Q200253"> <!--Traditional Chinese Medicine-->
 
 
 Both systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. However, it is important to note that these complexions have nothing to do with actual temperatures or humidity – in fact, some substances even have varying complexions based on their form. For example, boiling water can have a cold complexion while ice has a hot complexion. Also, different humors have been historically associated with different bodily organs, seasons, and temperaments. These associations often played a role in the diagnosing and treatment of one’s illnesses – people often blamed bad weather, rotten food, or emotional events as triggers for disease and sickness.
