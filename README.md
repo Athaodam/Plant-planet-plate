@@ -82,15 +82,23 @@ One is considered healthiest when the bodily humors of blood, yellow bile, black
 <param ve-entity eid="Q201705"> <!--Khmer Empire-->
 
 ## Food and Cuisine
-<param ve-image url="https://a.cdn-hotels.com/gdcs/production51/d1045/381fbd5d-5163-46b0-8a78-c72554acff3c.jpg">
+
+<param ve-image url="https://a.cdn-hotels.com/gdcs/production51/d1045/381fbd5d-5163-46b0-8a78-c72554acff3c.jpg"
+       label= "Khmer Traditional Coconut Dance"
+       attribution="Amazon Angkor Restaurant"
+       fit="contain">
 
 Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
 
 
 <param ve-entity eid="Q201028"> <!--Khmer-->
 
+<param ve-image url="http://www.amazon-angkor.com/userfiles/thumbs/coconut-dance.jpg"
+       label= "Khmer Traditional Coconut Dance"
+       attribution="Amazon Angkor Restaurant"
+       fit="contain">
 
-In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
+In Cambodia, the entirety of the coconut tree is used for many things – building materials, charcoal, folk dances, and of course food (Nak 2019, 28). Both young and ripe coconuts are consumed, either raw or cooked into dishes of all types (Ibid). Dollops of rich coconut cream mixed into curries, stir-fries, and sweets. Crunchy and crispy fried dishes perfectly blossomed in coconut oil. Refreshing coconut water in various drink infusions – the possibilities do seem endless. The following three dishes all feature coconut as a crucial ingredient in their making; they are also quite popular options on restaurant and celebratory menus. 
 
 **Amok អាម៉ុក** 
 
