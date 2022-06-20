@@ -119,7 +119,17 @@ Coconuts, depending on what stage of growth or part being used, have different h
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
                     
-                    
+**Coconut Varieties & Parts Used/Avoided in TKM/KFM**
+* Ripe coconut: Skin, meat, and juice are boiled together and given to women during their 9th month of pregnancy induce labour (Dam 2022)
+* "Very green" coconut: Pregnancy medicine (White, 1996)
+* Coconut water: Pregnancy medicine (White, 1996); commonly mixed into the base of medicinal wines (Dam 2022)
+* Red coconut roots: Pregnancy medicine (White, 1996)
+* Red coconut bark: Pregnancy medicine (White, 1996) 
+* Coconut flesh: Avoided during early stages of pregnancy to ensure a smoother delivery (Dam 2022)
+<param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
+       label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
+       attribution="Wellcome Collection"
+       license="Creative Commons">
 
 ## Food and Cuisine
 
@@ -183,7 +193,7 @@ Cambodian cuisine is both complex and simple. It relies heavily on local ingredi
  
 
 # References
- <param ve-image title="Nhum Chakcan, Khmer layered coconut dessert" url="https://github.com/Athaodam/Plant-planet-plate/blob/6fcfd7d66468da308e1500ec3d0f055d75705f97/Coconut%20palm%20(Cocos%20nucifera)%20flowering%20stem%20and%20floral%20segments.%20Coloured%20etching%20by%20J.%20Pass,%20c.%201807,%20after%20J.%20Ihle.jpg">                               
+                    
 
 [^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20; Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp); Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
 [^ref2]: Herbarium., United States. National. 1890. Contributions from the United States National Herbarium  . Vol. v.1 (1890-1895). Washington, D.C: Smithsonian Institution Press. https://www.biodiversitylibrary.org/item/13761; Pearsall J. (Ed.) 1999. Concise Oxford Dictionary. Tenth Edition. Clarendon Press, Oxford, UK. 1666 pp. Percival
