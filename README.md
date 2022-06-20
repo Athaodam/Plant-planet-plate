@@ -119,12 +119,7 @@ Coconuts, depending on what stage of growth or part being used, have different h
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
                     
-**Coconut Varieties & Parts Used/Avoided in TKM/KFM**   
-
-<param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
-       label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
-       attribution="Wellcome Collection"
-       license="Creative Commons">
+### Coconut Varieties & Parts Used/Avoided in TKM/KFM   
        
 <param ve-tabulator url="Coconut uses - Sheet1 (1).tsv">
 
@@ -192,6 +187,10 @@ Cambodian cuisine is both complex and simple. It relies heavily on local ingredi
  
 
 # References
+<param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
+       label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
+       attribution="Wellcome Collection"
+       license="Creative Commons">
                     
 
 [^ref1]:  Foale, M. 2003. _The coconut odyssey: the bounteous possibilities of the tree of life._ ACIAR Monograph No. 101, 132p., 15-20; Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database:a tree reference and selection guide version 4.0 (http://www.worldagroforestry.org/sites/treedbs/treedatabases.asp); Ahuja, Subhash, S Ahuja, and U Ahuja. 2014. “Coconut - History, Uses, and Folklore.” Asian Agri-History 18 (January): 221–48.
