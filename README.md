@@ -119,7 +119,7 @@ Coconuts, depending on what stage of growth or part being used, have different h
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
                     
-### Coconut Varieties & Parts Used/Avoided in TKM/KFM   
+## Medicinal Coconut Varieties, Parts, and Recipes
        
 <param ve-tabulator url="Coconut uses - Sheet1 (1).tsv">
 
