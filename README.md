@@ -121,12 +121,13 @@ Coconuts, depending on what stage of growth or part being used, have different h
                     
 **Coconut Varieties & Parts Used/Avoided in TKM/KFM**   
 
-<param ve-tabulator url="Coconut uses - Sheet1.tsv">
-
 <param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
        label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
        attribution="Wellcome Collection"
        license="Creative Commons">
+       
+<param ve-tabulator url="Coconut uses - Sheet1 (1).tsv">
+
 
 
 ## Food and Cuisine
