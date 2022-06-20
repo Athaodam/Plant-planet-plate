@@ -119,19 +119,19 @@ Coconuts, depending on what stage of growth or part being used, have different h
        attribution="Ashley Thuthao Keng Dam"
        fit="contain">
                     
-**Coconut Varieties & Parts Used/Avoided in TKM/KFM**
-
-<param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
-       label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
-       attribution="Wellcome Collection"
-       license="Creative Commons">
-       
+**Coconut Varieties & Parts Used/Avoided in TKM/KFM**   
 - **Ripe coconut**: Skin, meat, and juice are boiled together and drank during the 9th month of pregnancy induce labour (Dam 2022)
 - **"Very green" coconut**: Pregnancy medicine (White, 1996)
 - **Coconut water**: Pregnancy medicine (White, 1996); commonly mixed into the base of medicinal wines (Dam 2022)
 - **Red coconut roots**: Pregnancy medicine (White, 1996)
 - **Red coconut bark**: Pregnancy medicine (White, 1996) 
 - **Coconut flesh**: Avoided during early stages of pregnancy to ensure a smoother delivery (Dam 2022)
+
+
+<param ve-image url="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle.jpg"
+       label="Coconut palm (Cocos nucifera) flowering stem and floral segments. Coloured etching by J. Pass, c. 1807, after J. Ihle"
+       attribution="Wellcome Collection"
+       license="Creative Commons">
 
 
 ## Food and Cuisine
