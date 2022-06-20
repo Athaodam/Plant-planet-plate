@@ -95,7 +95,7 @@ Coconuts are widely used in both Traditional Khmer (TKM) and Folk medicine (KFM)
        fit="contain">
 
 
-Both the TKM and KFM systems partially relay on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
+Both the TKM and KFM systems partially rely on a humoral framework, meaning that the body is believed to be made up of 4 different humors whose conditions need to be balanced in order to achieve good health (Fagay 2002). One is considered healthiest when the bodily humors of blood, yellow bile, black bile, and phlegm are co-existing harmoniously. This humoral equilibrium is achieved by addressing the different natural elements and conditions of each humor such as “hotness”, “coldness”, “wetness”, and “dryness”. These conditions were believed to form each humor’s “complexion”. 
 
 <param ve-image url="https://www.nlm.nih.gov/exhibition/shakespeare/assets/four-humors.png"
        label= "The Four Humors"
@@ -131,7 +131,7 @@ In Cambodia, the entirety of the coconut tree is used for many things – buildi
        start="00:44">
 
 
-Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International).
+Cambodian cuisine is both complex and simple. It relies heavily on local ingredients, with fresh and wild fruits, herbs, and vegetables being at the core. Although “Cambodian” and “Khmer” are often used interchangeably, it is important to know that “Cambodian” refers to the collective of all ethic groups of Cambodia while “Khmer” specifically highlights the Khmer ethic group. Given that the Khmer people make up an estimated 94 percent of the population, many foods and dishes considered “traditional” are often Khmer dishes (Minority Rights International). In addition to TKM and KFM (food-)medicines, coconuts are used in several everyday and celebratory dishes. 
 
 
 
