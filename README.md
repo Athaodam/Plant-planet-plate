@@ -5,7 +5,7 @@
 <param ve-config 
        title="Coconut ដូង (Cocos nucifera)"
        author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/0/0d/Sihanoukville_Province_-_coconut_palms.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg" 
        layout="vertical">
 
 
